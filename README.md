@@ -1,2 +1,1 @@
-# LingerieDrafter
-3D Lingerie pattern generator for all sizes.
+LingerieDrafter: Free, 3D lingerie pattern generator for all sizes. Coming 2025! #SewingRevolution
